@@ -119,9 +119,11 @@ h1, h2 ,h3 {
 		</div>	
 	</div>
 
-	<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+	<P>   </p>
 	
-	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>	
+	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
+	
+	<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
 	<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 	<audio src="music.mp3" controls  loop autoplay> </audio>
 	<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
