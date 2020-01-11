@@ -71,27 +71,26 @@ h1, h2 ,h3 {
 </form>
 <div id ="container">
 	<div id ="header">	
-	<h1> Sungkook  Lee's  Website </h1>
-	
-	</div>	
-	<div id ="content">
-		<div id ="nav">
-		<h3> Navigate </h3>	
-			<ul> 
-				<li><a class = "selected" href = "" ></a> Home </li>
-				<li><a class = "selected" href = "" ></a> About </li>
-				<li><a class = "selected" href = "" ></a> Contact</li>
-			</u>
-		</div>
-		<div id ="main">
-		<h2> Home Page</h2>	
-		<p> Long time ago,
-			I had worked in computer department for 10 years.  At that time I did not feel satisfied .
+	<h1> Sungkook  Lee's  Website </h1></div>	
+		<div id ="content">
+			<div id ="nav">
+			<h3> Navigate </h3>	
+				<ul> 
+					<li><a class = "selected" href = "" ></a> Home </li>
+					<li><a class = "selected" href = "" ></a> About </li>
+					<li><a class = "selected" href = "" ></a> Contact</li>
+				</u>
+			</div>
+			<div id ="main">
+			<h2> Home Page</h2>
+				
+			<p> Long time ago, I had worked in computer department for 10 years.  At that time I did not feel satisfied .
 					
 			the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
 					
-				
-			but nowaday my son stared to study aboit computer programming. For me it is a good chance share
+			but nowaday my son stared to study aboit computer programming. 
+			
+			For me it is a good chance to  share talking issue with son.
 					
 			and i am not a illiterate to computer program and hardware. 
 					
@@ -106,8 +105,7 @@ h1, h2 ,h3 {
 			and keep thinking about procecure og computer programming.
 					
 			That"s  it !
-					
-					
+				
 			Good luck !!!!!
 		</p>
 		</div>	
