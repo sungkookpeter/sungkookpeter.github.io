@@ -48,7 +48,7 @@ h1, h2 ,h3 {
 	}
 #footer {
 	clear : both ;
-	background-color : green ;
+	background-color : blue ;
 	color : #008000 ;
 	text-align : right ;
 	width : 400px ;
@@ -116,7 +116,7 @@ h1, h2 ,h3 {
 	
 <p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
 	
-<img src = "PB190489.JPG"     width = 100px  heigt = 30px > 
+<img src = "PB190489.JPG"     width ="100" heigt = "300" > 
 <audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 <audio src="music.mp3" controls  loop autoplay> </audio>
 <video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
