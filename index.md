@@ -35,6 +35,9 @@ h1, h2 ,h3 {
 	width : 180px ;
 	float : left ;
 	}
+#nofloat {
+	float : none
+	}
 #nav .selected {
 	font-size : bold ;
 	}
@@ -48,7 +51,7 @@ h1, h2 ,h3 {
 	}
 #footer {
 	clear : both ;
-	background-color : blue ;
+	background-color : green ;
 	color : #008000 ;
 	text-align : right ;
 	width : 400px ;
@@ -114,9 +117,9 @@ h1, h2 ,h3 {
 
 <P>   </p>
 	
-<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
+<p id= "nofloat" >프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
 	
-<img src = "PB190489.JPG"     width ="100" heigt = "300" > 
+<img src = "PB190489.JPG"     width ="500" heigt = "300" > 
 <audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 <audio src="music.mp3" controls  loop autoplay> </audio>
 <video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
