@@ -60,14 +60,14 @@ h1, h2 ,h3 {
 </head>
 
 <body>
-	<h2></h2>
-	<form>
+<h2></h2>
+<form>
 <!--		<form method = "get">   -->
 <!--			<p> 이름 : 	<input type="text" name="name"></p>
 <!--			<p> 학과 : 	<input type="text" name="major"></p>
 <1--						<input type="submit" value="전송">
 <!--		/form>                  -->
-	</form>
+</form>
 <div id ="container">
 	<div id ="header">	
 	<h1> Sungkook  Lee's  Website </h1></div>	
@@ -104,25 +104,27 @@ h1, h2 ,h3 {
 			and keep thinking about procecure og computer programming.
 					
 			That"s  it !
-					
-					
-			Good luck !!!!!</p></div>
-		</div>
-		
+				
+			Good luck !!!!!
+		</p>
+		</div>	
+	</div>
 	<div id ="footer">
-	<h1> Footage </h1>	
-	<p>	COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
-			
+			<h1> Footage </h1>	
+			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE</p>
+			<P>SUNGKOOK LEE 2020.01.11
 	
 	</div>	
 </div>
 
-	<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+<P>   </p>
 	
-	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>	
-	<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
-	<audio src="music.mp3" controls  loop autoplay> </audio>
-	<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
+<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
+	
+<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
+<audio src="music.mp3" controls  loop autoplay> </audio>
+<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
 <p></P>
 </body>
 </html>
