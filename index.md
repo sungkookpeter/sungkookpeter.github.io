@@ -112,12 +112,6 @@ h1, h2 ,h3 {
 		</p>
 		</div>	
 	</div>
-	<div id ="footer">
-			<h1> Footage </h1>	
-			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE</p>
-			<P>SUNGKOOK LEE 2020.01.11
-	
-	</div>	
 </div>
 
 <P>   </p>
@@ -129,5 +123,11 @@ h1, h2 ,h3 {
 <audio src="music.mp3" controls  loop autoplay> </audio>
 <video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
 <p></P>
+	<div id ="footer">
+			<h1> Footage </h1>	
+			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE</p>
+			<P>SUNGKOOK LEE 2020.01.11
+	
+	</div>	
 </body>
 </html>
