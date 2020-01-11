@@ -48,7 +48,7 @@ h1, h2 ,h3 {
 	}
 #footer {
 	clear : both ;
-	background-color : green;
+	background-color : blue;
 	color : red ;
 	text-align : right ;
 	}
