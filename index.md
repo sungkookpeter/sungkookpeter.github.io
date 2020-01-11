@@ -108,7 +108,7 @@ h1, h2 ,h3 {
 		</div>	
 	</div>
 
-	<img src = "PB190489.JPG"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px > 
+	<img src = "PB190489.JPG"  style = "float : right "  title = "손자와 함께" width = "100px" heigt = "30px" > 
 	
 	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>	
 	<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
