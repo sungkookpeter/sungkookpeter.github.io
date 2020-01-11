@@ -106,18 +106,12 @@ h1, h2 ,h3 {
 		</p>
 		</div>	
 	</div>
-	<div id ="footer">
-			<h1> Footage </h1>	
-			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE</p>
-			<P>SUNGKOOK LEE 2020.01.11
-	
-	</div>	
 </div>
 <P>   </p>
 	
 <p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
 	
-<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+<img src = "PB190489.JPG"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
 <audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 <audio src="music.mp3" controls  loop autoplay> </audio>
 <video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
@@ -125,8 +119,7 @@ h1, h2 ,h3 {
 <div id ="footer">
 			<h1> Footage </h1>	
 			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
-			
-	
+			<p>sungkook lee</p>
 </div>	
 </body>
 </html>
