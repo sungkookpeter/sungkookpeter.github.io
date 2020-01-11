@@ -19,6 +19,8 @@ a {
 	margin-left : auto ;
 	margin-right : auto ;
 	}
+#nofloat { 
+	float : none ; }
 #header {
 	background-color : #00FF00 ; 
 	color : white ;
@@ -48,7 +50,7 @@ h1, h2 ,h3 {
 	}
 #footer {
 	clear : both ;
-	background-color : blue;
+	background-color : green;
 	color : red ;
 	text-align : right ;
 	}
@@ -66,7 +68,6 @@ h1, h2 ,h3 {
 	<div id ="container">
 		<div id ="header">	
 			<h1> Sungkook  Lee's  Website </h1>
-	
 		</div>	
 		<div id ="content">
 			<div id ="nav">
@@ -75,43 +76,29 @@ h1, h2 ,h3 {
 					<li><a class = "selected" href = "" ></a> Home </li>
 					<li><a class = "selected" href = "" ></a> About </li>
 					<li><a class = "selected" href = "" ></a> Contact</li>
-				</u>
+				</ul>
 			</div>
 			<div id ="main">
 			<h2> Home Page</h2>
-				
 			<p> Long time ago, I had worked in computer department for 10 years.  At that time I did not feel satisfied .
-					
 			the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
-					
 			but nowaday my son stared to study aboit computer programming. 
-			
 			For me it is a good chance to  share talking issue with son.
-					
 			and i am not a illiterate to computer program and hardware. 
-					
 			And it is a good reson for me to feel thankful about my past-experience and my life. 
-					
 			anyway  this is wriiten  by me .
-					
 			I want my all sibling can handle computer very well.
-					
 			The knowhow  of  being a excellent computer guy is to keep reading manual 
-					
 			and keep thinking about procecure og computer programming.
-					
-			That"s  it !
-				
-			Good luck !!!!!
-		</p>
-		</div>	
+			That's  it !
+			Good luck </p>
+			</div>	
+		</div>
 	</div>
-</div>
-<P>   </p>
 	
-<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
+<p id = "nofloat" > 프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio " </P>
 	
-<img src = "PB190489.JPG"  style = "float : right "  width = "500px"  heigt = "300px" > 
+<img src = "PB190489.JPG"  style = "float : right "  width = "500px"  heigt = "300px" >
 <audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 <audio src="music.mp3" controls  loop autoplay> </audio>
 <video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
