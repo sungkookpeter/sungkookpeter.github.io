@@ -70,9 +70,7 @@ h1, h2 ,h3 {
 	</form>
 	<div id ="container">
 		<div id ="header">	
-			<h1> Sungkook  Lee's  Website </h1>
-	
-		</div>	
+			<h1> Sungkook  Lee's  Website </h1></div>	
 		<div id ="content">
 			<div id ="nav">
 				<h3> Navigate </h3>	
