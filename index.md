@@ -68,51 +68,54 @@ h1, h2 ,h3 {
 <1--						<input type="submit" value="전송">
 <!--		/form>                  -->
 	</form>
-	<div id ="container">
-		<div id ="header">	
-			<h1> Sungkook  Lee's  Website </h1></div>	
+<div id ="container">
+	<div id ="header">	
+	<h1> Sungkook  Lee's  Website </h1></div>	
 		<div id ="content">
 			<div id ="nav">
-				<h3> Navigate </h3>	
-					<ul> 
-						<li><a class = "selected" href = "" ></a> Home </li>
-						<li><a class = "selected" href = "" ></a> About </li>
-						<li><a class = "selected" href = "" ></a> Contact</li>
-					</u>
+			<h3> Navigate </h3>	
+				<ul> 
+					<li><a class = "selected" href = "" ></a> Home </li>
+					<li><a class = "selected" href = "" ></a> About </li>
+					<li><a class = "selected" href = "" ></a> Contact</li>
+				</u>
 			</div>
 			<div id ="main">
-				<h2> Home Page</h2>	
-					<p> Long time ago,
-					I had worked in computer department for 10 years.  At that time I did not feel satisfied .
-					
-					the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
-					
+			<h2> Home Page</h2>
 				
-					but nowaday my son stared to study aboit computer programming. For me it is a good chance to  share talking issue with son.
+			<p> Long time ago, I had worked in computer department for 10 years.  At that time I did not feel satisfied .
 					
-					and i am not a illiterate to computer program and hardware. 
+			the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
 					
-					And it is a good reson for me to feel thankful about my past-experience and my life. 
+			but nowaday my son stared to study aboit computer programming. 
+			
+			For me it is a good chance to  share talking issue with son.
 					
-					anyway  this is wriiten  by me .
+			and i am not a illiterate to computer program and hardware. 
 					
-					I want my all sibling can handle computer very well.
+			And it is a good reson for me to feel thankful about my past-experience and my life. 
 					
-					The knowhow  of  being a excellent computer guy is to keep reading manual 
+			anyway  this is wriiten  by me .
 					
-					and keep thinking about procecure og computer programming.
+			I want my all sibling can handle computer very well.
 					
-					That"s  it !
+			The knowhow  of  being a excellent computer guy is to keep reading manual 
+					
+			and keep thinking about procecure og computer programming.
+					
+			That"s  it !
 					
 					
-					Good luck !!!!!</p></div></div>
-		<div id ="footer">
-			<h1> Footage </h1>	
-			<p>	COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
+			Good luck !!!!!</p></div>
+		</div>
+		
+	<div id ="footer">
+	<h1> Footage </h1>	
+	<p>	COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
 			
 	
-		</div>	
-	</div>
+	</div>	
+</div>
 
 	<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
 	
