@@ -1,4 +1,4 @@
-<!Doctype html>
+
 
 <html>
 
@@ -90,7 +90,7 @@ h1, h2 ,h3 {
 					the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
 					
 				
-					but nowaday my son stared to study aboit computer programming. For me it is a good chance to share talking issue with son.
+					but nowaday my son stared to study aboit computer programming. For me it is a good chance to  share talking issue with son.
 					
 					and i am not a illiterate to computer program and hardware. 
 					
@@ -104,7 +104,7 @@ h1, h2 ,h3 {
 					
 					and keep thinking about procecure og computer programming.
 					
-					<That"s  it !
+					That"s  it !
 					
 					
 					Good luck !!!!!
@@ -113,7 +113,7 @@ h1, h2 ,h3 {
 		</div>
 		<div id ="footer">
 			<h1> Footage </h1>	
-			COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE
+			<p>	COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
 			
 	
 		</div>	
