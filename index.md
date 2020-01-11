@@ -113,7 +113,7 @@ h1, h2 ,h3 {
 		</div>
 		<div id ="footer">
 			<h1> Footage </h1>	
-			COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE
+			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
 			
 	
 		</div>	
