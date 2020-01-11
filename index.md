@@ -105,10 +105,7 @@ h1, h2 ,h3 {
 					That"s  it !
 					
 					
-					Good luck !!!!!
-					</p>
-			</div>	
-		</div>
+					Good luck !!!!!</p></div></div>
 		<div id ="footer">
 			<h1> Footage </h1>	
 			<p>	COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
