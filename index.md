@@ -48,8 +48,8 @@ h1, h2 ,h3 {
 	}
 #footer {
 	clear : both ;
-	background-color : #FF0000 ;
-	color : #008000 ;
+	background-color : green;
+	color : red ;
 	text-align : right ;
 	}
 	
@@ -62,11 +62,6 @@ h1, h2 ,h3 {
 <body>
 	<h2></h2>
 	<form>
-<!--		<form method = "get">   -->
-<!--			<p> 이름 : 	<input type="text" name="name"></p>
-<!--			<p> 학과 : 	<input type="text" name="major"></p>
-<1--						<input type="submit" value="전송">
-<!--		/form>                  -->
 	</form>
 	<div id ="container">
 		<div id ="header">	
@@ -110,21 +105,21 @@ h1, h2 ,h3 {
 					Good luck !!!!!
 					</p>
 			</div>	
-		</div>
-		<div id ="footer">
-			<h1> Footage </h1>	
-			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
-			
-	
 		</div>	
 	</div>
 
-	<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+	<img src = "PB190489.JPG"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px > 
 	
 	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>	
 	<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
 	<audio src="music.mp3" controls  loop autoplay> </audio>
 	<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
 <p></P>
+<div id ="footer">
+			<h1> Footage </h1>	
+			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE<p>
+			
+	
+</div>	
 </body>
 </html>
