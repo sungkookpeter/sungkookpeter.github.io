@@ -4,7 +4,7 @@
 
 <head>
 <title>lsk initial web</title>
-	<style>
+<style>
 ody {
 	background-color: #FFFF00 ;
 	font-family : Helvetica ,   Arial , sans-serif ;
@@ -56,7 +56,7 @@ h1, h2 ,h3 {
 
 	
 	
-	</style>
+</style>
 </head>
 
 <body>
