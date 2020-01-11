@@ -1,10 +1,10 @@
-<!Doctype html>
+
 
 <html>
 
 <head>
 <title>lsk initial web</title>
-	<style>
+<style>
 ody {
 	background-color: #FFFF00 ;
 	font-family : Helvetica ,   Arial , sans-serif ;
@@ -56,7 +56,7 @@ h1, h2 ,h3 {
 
 	
 	
-	</style>
+</style>
 </head>
 
 <body>
@@ -70,50 +70,57 @@ h1, h2 ,h3 {
 		</div>	
 		<div id ="content">
 			<div id ="nav">
-				<h3> Navigate </h3>	
-					<ul> 
-						<li><a class = "selected" href = "" ></a> Home </li>
-						<li><a class = "selected" href = "" ></a> About </li>
-						<li><a class = "selected" href = "" ></a> Contact</li>
-					</u>
+			<h3> Navigate </h3>	
+				<ul> 
+					<li><a class = "selected" href = "" ></a> Home </li>
+					<li><a class = "selected" href = "" ></a> About </li>
+					<li><a class = "selected" href = "" ></a> Contact</li>
+				</u>
 			</div>
 			<div id ="main">
-				<h2> Home Page</h2>	
-					<p> Long time ago,
-					I had worked in computer department for 10 years.  At that time I did not feel satisfied .
-					
-					the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
-					
+			<h2> Home Page</h2>
 				
-					but nowaday my son stared to study aboit computer programming. For me it is a good chance to share talking issue with son.
+			<p> Long time ago, I had worked in computer department for 10 years.  At that time I did not feel satisfied .
 					
-					and i am not a illiterate to computer program and hardware. 
+			the reason is work-environment is all machine and manuals. I wanted to work with human-being. 
 					
-					And it is a good reson for me to feel thankful about my past-experience and my life. 
+			but nowaday my son stared to study aboit computer programming. 
+			
+			For me it is a good chance to  share talking issue with son.
 					
-					anyway  this is wriiten  by me .
+			and i am not a illiterate to computer program and hardware. 
 					
-					I want my all sibling can handle computer very well.
+			And it is a good reson for me to feel thankful about my past-experience and my life. 
 					
-					The knowhow  of  being a excellent computer guy is to keep reading manual 
+			anyway  this is wriiten  by me .
 					
-					and keep thinking about procecure og computer programming.
+			I want my all sibling can handle computer very well.
 					
-					<That"s  it !
+			The knowhow  of  being a excellent computer guy is to keep reading manual 
 					
+			and keep thinking about procecure og computer programming.
 					
-					Good luck !!!!!
-					</p>
-			</div>	
+			That"s  it !
+				
+			Good luck !!!!!
+		</p>
 		</div>	
 	</div>
-
-	<img src = "PB190489.JPG"  style = "float : right "  title = "손자와 함께" width = "100px" heigt = "30px" > 
+	<div id ="footer">
+			<h1> Footage </h1>	
+			<p>COPYRITE     &COPY : 2019.11.26 SUNGKOOK LEE</p>
+			<P>SUNGKOOK LEE 2020.01.11
 	
-	<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>	
-	<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
-	<audio src="music.mp3" controls  loop autoplay> </audio>
-	<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
+	</div>	
+</div>
+<P>   </p>
+	
+<p>프랑스어---------------------------------------음악-------------------------------------------------하원 엉덩이 춤 vidio</P>
+	
+<img src = "pb190489.jpg"  style = "float : right " title = "손자와 함께한 시간   "  width = 100px  heigt = 30px" > 
+<audio src="audio_file_french.mp3" controls  loop autoplay> </audio>
+<audio src="music.mp3" controls  loop autoplay> </audio>
+<video src="video.mp4" controls  loop autoplay width = "200" height = "200" > </video>
 <p></P>
 <div id ="footer">
 			<h1> Footage </h1>	
